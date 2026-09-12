@@ -1,5 +1,5 @@
-import java.util.Scanner; //Mohan Kumar
-
+import java.util.Scanner; //Mohan Kumar 
+// Java project - 01
 public class SmartCurriculumApp {
     static Scanner sc = new Scanner(System.in);
     static String name;
