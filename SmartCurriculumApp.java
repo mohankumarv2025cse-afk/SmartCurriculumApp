@@ -3,7 +3,7 @@ import java.util.Scanner; //Mohan Kumar
 public class SmartCurriculumApp {
     static Scanner sc = new Scanner(System.in);
     static String name;
-    static Stringit initg id;
+    static String id;
     static String roll;
     static boolean studentAdded = false;   // track if a student exists yet
     static int present = 0;
